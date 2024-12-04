@@ -14,3 +14,10 @@ version = "0.0.0"
 dependencies = [
  "anyhow",
 ]
+
+[[package]]
+name = "d02"
+version = "0.0.0"
+dependencies = [
+ "anyhow",
+]
